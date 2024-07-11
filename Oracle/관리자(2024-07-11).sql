@@ -70,7 +70,7 @@ CREATE USER user1 IDENTIFIED BY 1234 DEFAULT TABLESPACE student;
 오라클에서 DBA 권한 SYSDBA 보다 조금 제한된 권한이며, 로그인, 테이블생성 제거, CRUD 등의 
 업무를 모두 수행할 수 있는 권한이다.
 */
-
+GRANT DBA TO user1;
 
 
 
