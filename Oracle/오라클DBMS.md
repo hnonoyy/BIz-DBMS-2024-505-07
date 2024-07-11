@@ -6,6 +6,7 @@
 - developers
   ![alt text](image.png)
   ![alt text](image-1.png)
+- downloads -> developers Tools
 - Datbase Express Edition
   ![alt text](image-4.png)
 - Oracle 21c Windows x64 다운로드
