@@ -1,3 +1,20 @@
+# 오라클 DBMS
+
+##오라클 다운로드
+
+- https://www.oracle.com/ 접속
+- developers
+  ![alt text](image.png)
+  ![alt text](image-1.png)
+- Datbase Express Edition
+  ![alt text](image-4.png)
+- Oracle 21c Windows x64 다운로드
+  ![alt text](image-5.png)
+- SQL Developer
+  ![alt text](image-6.png)
+- JDK include 버전 다운로드
+  ![alt text](image-7.png)
+
 # 오라클 DBMS 의 특징
 
 - 오라클 DBMS 는 사용자 = 데이터 저장소가 되어 DBMS에 접속(Login)한 사용자는 자신의 DB에만 보통 접근이 가능하다
