@@ -31,7 +31,7 @@ use mydb;
 -- mydb 데이터베이스에 어떤 테이블이 있는가
 show tables;
 -- tbl_student 테이블의 구조를 보고싶다(desc는 축약형)
-describe tbl_student;
+describe tbltbl_student_student;
 desc tbl_student; 
 
 -- localhost 에서만 접근 가능한 user1 사용자를 생성
